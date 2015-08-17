@@ -1,5 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+不燃ごみ,,,img/moyasanai02.svg,#733b96
+雑かみ・雑誌,,,img/shigen02.svg,#77ae1f
+新聞紙,,,img/shigen02.svg,#27a047
+段ボール・牛乳パック,,,img/shigen02.svg,#bbe400
+可燃ごみ,,,img/moyasu02.svg,#ea3b13
+資源びん,,,img/bin02.svg,#2dc7aa
+ペットボトル,,,img/bin02.svg,#13c4e1
